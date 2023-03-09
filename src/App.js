@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './navbar';
-import tienda from './pages/tienda.js';
-import about from './pages/about.js';
-import sitio from './pages/sitio.js';
+import Navbar from './components/navbar';
+import tienda from './components/tienda.js';
+import about from './components/about.js';
+import sitio from './components/sitio.js';
 
 
 function App() {
