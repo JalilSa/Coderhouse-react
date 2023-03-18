@@ -1,0 +1,14 @@
+.ulnav{display: flex;
+    justify-content: space-around;
+    justify-self: flex-end;
+}
+
+.listanav{
+    margin: 20px;
+    display: flex;
+    transform: translate(1000%, -100%);
+}
+
+.containercarta{
+    transform: translateX(40%);
+}
